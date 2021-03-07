@@ -1,4 +1,3 @@
-# Udemy_Java
 public class DataSizeRange {
 
     public static void main(String[] args) {
@@ -11,9 +10,8 @@ public class DataSizeRange {
         System.out.println("Byte Max: "+Byte.MAX_VALUE);
         System.out.println("Byte Bytes :"+Byte.BYTES);*/
 
-        System.out.println("FLoat Min: "+Float.MIN_VALUE);
-        System.out.println("Float Max: "+Float.MAX_VALUE);
-        System.out.println("Float Bytes :"+Float.BYTES);
+        System.out.println("Min: "+Boolean.TRUE);
+        System.out.println("Max: "+Boolean.FALSE);
     }
 
 }
